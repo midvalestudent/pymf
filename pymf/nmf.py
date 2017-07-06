@@ -179,7 +179,7 @@ class NMF():
         if compute_err:
             self.ferr = np.zeros(niter)
 
-        for i in xrange(niter):
+        for i in range(niter):
             if compute_w:
                 self.update_w()
 

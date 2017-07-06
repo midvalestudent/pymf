@@ -4,7 +4,7 @@ setuptools.setup(
     name='PyMF',
     version='0.1.9',
     description='Python Matrix Factorization Module',
-    author='Christian Thurau',
+    author='Christian Thurau; modified for Python 3 by Roger Donaldson',
     author_email='cthurau@googlemail.com',
     url='http://code.google.com/p/pymf/',
     packages=setuptools.find_packages(),
